@@ -1,2 +1,2 @@
 online job portal system MERN stack
-A software group
+A software group project
