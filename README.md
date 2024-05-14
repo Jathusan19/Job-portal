@@ -7,3 +7,5 @@
 *ALMOST completed the core
 
 * Now QA
+* Next Hosting
+* 
