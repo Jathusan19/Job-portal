@@ -2,7 +2,7 @@
 
 *A software group project
 
-*working as a team
+*working as a team OF 3
 
 *ALMOST completed the core
 $ HAVE TO PUSH NOTIFICATIOS
