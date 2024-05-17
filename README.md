@@ -1,6 +1,6 @@
 *online job portal system MERN stack
 
-*A software group project
+*A software group project done during 6 sprints
 
 *working as a team OF 3
 
