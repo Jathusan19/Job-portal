@@ -9,4 +9,4 @@ $ HAVE TO PUSH NOTIFICATIOS
 
 * Now QA
 * Next Hosting
-* 
+* indeed
