@@ -10,3 +10,4 @@ $ HAVE TO PUSH NOTIFICATIOS
 * Now QA
 * Next Hosting
 * Job crawling
+* Data Scrapping
