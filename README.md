@@ -2,7 +2,7 @@
 
 *A software group project done during 6 sprints
 
-*working as a team OF 3
+*Working as a team OF 3
 
 *ALMOST completed the core
 $ HAVE TO PUSH NOTIFICATIOS
