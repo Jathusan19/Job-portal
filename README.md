@@ -5,7 +5,7 @@
 *Working as a team OF 3
 
 *ALMOST completed the core
-$ HAVE TO PUSH SOME NOTIFICATIOS
+$ HAVE TO PUSH SOME NOTIFICATION
 
 * Now QA
 * Next Hosting
