@@ -9,6 +9,5 @@ $ HAVE TO PUSH SOME NOTIFICATION
 
 * Now QA
 * Next Hosting
-* Job crawling
 * Data Scrapping
 * data Mining
