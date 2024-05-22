@@ -11,4 +11,4 @@ $ HAVE TO PUSH SOME NOTIFICATION
 * Next Hosting
 * Job crawling
 * Data Scrapping
-* data
+* data Mining
