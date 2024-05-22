@@ -1,4 +1,4 @@
-*Online job portal system MERN stack
+*Online job portal system MERN stack..
 
 *A software group project done during 6 sprints
 
