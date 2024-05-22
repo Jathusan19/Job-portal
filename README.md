@@ -1,4 +1,5 @@
 *Online job portal system MERN stack..
+designed for the university.
 
 *A software group project done during 6 sprints
 
