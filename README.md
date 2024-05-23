@@ -2,7 +2,7 @@
 designed for the universit.
 
 *A software group project done within 6 sprint
-
+Full
 *Working as a team OF 3
 
 *ALMOST completed the core
