@@ -5,7 +5,7 @@ designed for the universit.
 Full
 *Working as a team OF 3
 
-*ALMOST completed the core
+*ALMOST Completed the core
 $ HAVE TO PUSH SOME NOTIFICATION
 
 * Now QA
