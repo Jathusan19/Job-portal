@@ -1,7 +1,7 @@
-Sure, here's a README file for your job portal project:
+
 
 ```markdown
-# Job Portal Website
+# Job Portal 
 
 Welcome to the Job Portal Website repository! This project is designed to connect job seekers with employers, providing a user-friendly platform for job listings, applications, and talent acquisition.
 
@@ -38,8 +38,8 @@ The Job Portal Website is a comprehensive solution for both job seekers and empl
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Jathusan19/job-portal-website.git
-   cd job-portal-website
+   git clone https://github.com/Jathusan19/Job-portal.git
+   cd Job-portal
    ```
 
 2. **Install dependencies**:
@@ -55,7 +55,7 @@ The Job Portal Website is a comprehensive solution for both job seekers and empl
      ```
 
 3. **Setup database**:
-   - Create a MySQL database and configure the connection settings in the backend `.env` file.
+   - Create a Mongodb database and configure the connection settings in the backend `.env` file.
 
 4. **Run the application**:
    - For the backend:
