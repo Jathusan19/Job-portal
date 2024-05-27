@@ -37,14 +37,17 @@ The Job Portal Website is a comprehensive solution for both job seekers and empl
 - **Database**: Mongodb
 - **Version Control**: Git and GitHub
 
-## Installation
-1. **Clone the repository**:
+   ## Installation
+
+
+##1.  **Clone the repository**:
+
    ```bash
    git clone https://github.com/Jathusan19/Job-portal.git
    cd Job-portal
-   ```
+   ```$
 
-2. **Install dependencies**:
+## 2. **Install dependencies**:
    - For the backend:
      ```bash
      cd backend
@@ -80,16 +83,19 @@ We welcome contributions from the community! To contribute, please follow these 
 2. Create a new branch:
    ```bash
    git checkout -b feature/your-feature-name
+
    ```
 3. Make your changes and commit them:
+   
    ```bash
    git commit -m 'Add your feature'
    ```
-4. Push to the branch:
+5. Push to the branch:
    ```bash
    git push origin feature/your-feature-name
    ```
-5. Open a pull request on GitHub.
+   
+6. Open a pull request on GitHub.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
