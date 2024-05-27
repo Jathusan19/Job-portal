@@ -17,7 +17,8 @@ user-friendly platform for job listings, applications, and talent acquisition.
 - [Contact](#contact)
 
 ## Introduction
-The Job Portal Website is a comprehensive solution for both job seekers and employers. Job seekers can browse and apply for jobs, while employers can post job listings and find the best candidates for their openings.
+The Job Portal Website is a comprehensive solution for both job seekers and employers. Job seekers can browse and apply for jobs,
+ while employers can post job listings and find the best candidates for their openings.
 
 ## Features
 - **Job Seekers**: 
@@ -95,8 +96,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries or support, please contact:
-- **Jathusan Uthayaraj**: [GitHub](https://github.com/Jathusan19), [LinkedIn](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
-
+- **Jathusan Uthayaraj**: [GitHub](https://github.com/Jathusan19),
+- [LinkedIn](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
+- mail - jathurajan@gmail.com
 Thank you for visiting our repository!
 ```
 
