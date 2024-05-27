@@ -96,9 +96,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries or support, please contact:
-- **Jathusan Uthayaraj**: [GitHub](https://github.com/Jathusan19),
-- [LinkedIn](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
+- **Jathusan Uthayaraj**: [GitHub](https://github.com/Jathusan19)
+- **Jathusan Uthayaraj**:[LinkedIn](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
 - mail - jathurajan@gmail.com
+  
 Thank you for visiting our repository!
 ```
 
