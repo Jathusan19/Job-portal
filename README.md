@@ -30,9 +30,9 @@ The Job Portal Website is a comprehensive solution for both job seekers and empl
   - Manage applications
 
 ## Technologies Used
-- **Frontend**: React.js, Bootstrap
+- **Frontend**: React.js, Tailwind
 - **Backend**: Node.js, Express.js
-- **Database**: MySQL
+- **Database**: Mongodb
 - **Version Control**: Git and GitHub
 
 ## Installation
