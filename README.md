@@ -40,6 +40,7 @@ The Job Portal Website is a comprehensive solution for both job seekers and empl
    ## Installation
 
 
+
 ##1.  **Clone the repository**:
 
    ```bash
