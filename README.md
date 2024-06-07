@@ -3,7 +3,7 @@
 ```markdown
 # Job Portal 
 
-Welcome to the Job Portal Website repository! This project is designed to connect job seekers with employers, providing a
+Welcome to  Job Portal Website repository! This project is designed to connect job seekers with employers, providing a
 user-friendly platform for job listings, applications, and talent acquisition.
 
 ## Table of Contents
